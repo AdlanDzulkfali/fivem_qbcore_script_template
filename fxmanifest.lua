@@ -2,7 +2,7 @@ fx_version 'adamant'
 game 'gta5'
 
 author 'AddZodus#6269'
-description 'addz_xp by addzodus'
+description 'script description'
 version '1.0.0'
 
 ui_page 'ui/index.html'
