@@ -1,0 +1,15 @@
+@font-face {
+    font-family: techmono;
+    src: url(techmono.otf)
+}
+
+@font-face {
+    font-family: poppins;
+    src: url(Poppins.ttf)
+}
+
+/* @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap"); */
+
+body {
+    font-family: poppins;
+}
